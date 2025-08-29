@@ -10,3 +10,16 @@ header {
     front-size: 32px;
     color: rgba(204, 114, 11, 0.815);
 }
+
+section{
+    background-color: rgb(243, 194, 61);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+
+    margin-right: 5%;
+}
