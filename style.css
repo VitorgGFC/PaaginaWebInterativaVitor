@@ -1,7 +1,7 @@
 body {
     color:rgba(247, 40, 109, 0.815);
     background:rgb(206, 47, 255);
-    margin: Opx;
+    margin: 0px;
 }
 
 header {
@@ -22,4 +22,19 @@ section{
 .chamada-texto {
 
     margin-right: 5%;
+}
+
+h1{font-size: 40px;
+}
+p{font-size: 20px;
+
+}
+img{
+    height: 200px;
+}
+.categoria-videos {
+    display: flex;
+    overflow-x: ;
+
+
 }
